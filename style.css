@@ -1,4 +1,4 @@
-:host-context(.platform-linux) .monospace,
+:host-context(.platform-mac) .monospace,
 :host-context(.platform-mac) .source-code,
 .platform-mac .monospace,
 .platform-mac .source-code {
