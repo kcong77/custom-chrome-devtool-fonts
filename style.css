@@ -6,6 +6,19 @@
   font-family: SF Mono, monospace !important;
 }
 
+.platform-mac,
+:host-context(.platform-mac) {
+  --monospace-font-size: 11px !important;
+  --monospace-font-family: SF Mono, monospace !important;
+  --source-code-font-size: 11px !important;
+  --source-code-font-family: SF Mono, monospace !important;
+}
+
+.platform-mac {
+  font-family: SF Pro, sans-serif !important;
+  font-size: 11px !important;
+}
+
 .monospace,
 .source-code {
   font-size: 11px !important;
