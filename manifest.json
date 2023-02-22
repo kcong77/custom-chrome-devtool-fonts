@@ -1,7 +1,7 @@
 {
-  "name": "Custom Devtool Fonts on Mac",
+  "name": "Custom Fonts",
   "version": "1.0.0",
-  "description": "A customized fonts for Chrome Devtools.",
+  "description": "Extension use for custom fonts.",
   "devtools_page": "index.html",
   "manifest_version": 3
 }
