@@ -3,15 +3,15 @@
 .platform-mac .monospace,
 .platform-mac .source-code {
   font-size: 11px !important;
-  font-family: SF Mono, monospace !important;
+  font-family: JetBrains Mono, monospace !important;
 }
 
 .platform-mac,
 :host-context(.platform-mac) {
   --monospace-font-size: 11px !important;
-  --monospace-font-family: SF Mono, monospace !important;
+  --monospace-font-family: JetBrains Mono, monospace !important;
   --source-code-font-size: 11px !important;
-  --source-code-font-family: SF Mono, monospace !important;
+  --source-code-font-family: JetBrains Mono, monospace !important;
 }
 
 .platform-mac {
@@ -22,11 +22,11 @@
 .monospace,
 .source-code {
   font-size: 11px !important;
-  font-family: SF Mono, monospace !important;
+  font-family: JetBrains Mono, monospace !important;
 }
 
 ::shadow .monospace,
 ::shadow .source-code {
   font-size: 11px !important;
-  font-family: SF Mono, monospace !important;
+  font-family: JetBrains Mono, monospace !important;
 }
